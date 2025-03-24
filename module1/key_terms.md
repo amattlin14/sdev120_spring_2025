@@ -34,7 +34,7 @@ desk-checking
 documentation
 
 dummy value
-
+-a predetermined value that stops a program
 end users
 
 eof
@@ -64,7 +64,7 @@ input/output symbol or I/O symbol
 integrated development environment (IDE)
 
 interpreter
-
+-software that translates high level programming language to machine language while identifying syntax errors
 logic
 
 logical errors
